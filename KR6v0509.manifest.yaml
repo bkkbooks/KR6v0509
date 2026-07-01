@@ -1,0 +1,3084 @@
+canonical_identifier: bkk:krp/KR6v0509/v1
+canonical_location: https://kanripo.org/bkk/KR6v0509/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 七塔寺志
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA015/GA015n0013.xml
+    old_id: GA015n0013
+  edition:
+    short: bkk
+editions:
+- short: 志彙
+  label: 志彙
+  source_xml_id: wit.orig
+- short: GA
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0509_000.yaml, hash: 'sha256:d3531db5ba851fe30d3e4ff33ef5d253ba6e2f52a954a82fb23dc3a36e97a633'}
+  - {seq: 1, filename: KR6v0509_001.yaml, hash: 'sha256:87ce36f300c374a8689260dbc7969b4d3784114d500e0177f247d591b6b89b61'}
+  - {seq: 2, filename: KR6v0509_002.yaml, hash: 'sha256:27a0eb5d7a90051a4ca9247514402978fe8646c3f1f6947f19b8c06f33a82455'}
+  - {seq: 3, filename: KR6v0509_003.yaml, hash: 'sha256:266f8e9009c85121e32025ce346f0bb99432f698f997c7256923a4121442c16c'}
+  - {seq: 4, filename: KR6v0509_004.yaml, hash: 'sha256:099a5e39658cb1b60dd74b442b89d1f981f96697d8b11f1afacc9c8c99a351f3'}
+  - {seq: 5, filename: KR6v0509_005.yaml, hash: 'sha256:2bace7033f10530af669c97567239276719be85332561a1cda240d3aa31a5f81'}
+  - {seq: 6, filename: KR6v0509_006.yaml, hash: 'sha256:f1cfb0fe8fa1dfcdb6ad88e94e55e45c9714a08ccf466a1cbaa20be770663233'}
+  - {seq: 7, filename: KR6v0509_007.yaml, hash: 'sha256:278d1bfa199899455b28afa9359405e734781fe11dfba8ea94a299f02885f2d3'}
+  - {seq: 8, filename: KR6v0509_008.yaml, hash: 'sha256:6c66d19868783283ae48b922802d269831fb3ffa18ebd396414e27e0c4937e1e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0509_000.markers.yaml, hash: 'sha256:18825ca3b6d1e173eccb3caaa6d7dfb68ed47c586a0d0bdfd5c82f4fa2ef66aa'}
+  - {seq: 1, role: markers, filename: assets/KR6v0509_001.markers.yaml, hash: 'sha256:746a3c1b073528c281fbcc1f62abecaf30d11f6123650465bca24401104dc4b5'}
+  - {seq: 2, role: markers, filename: assets/KR6v0509_002.markers.yaml, hash: 'sha256:994f8961b16375954b59167e39dfa7643646441eb072522592ead91da83a1ee6'}
+  - {seq: 3, role: markers, filename: assets/KR6v0509_003.markers.yaml, hash: 'sha256:4e9eeb7b2de22261ba1b27a563a8acba9d9ad697ce6af6c2352189c96e84c29e'}
+  - {seq: 4, role: markers, filename: assets/KR6v0509_004.markers.yaml, hash: 'sha256:cbf6517e29de39bd50208f3eae24d26941c429f25dc4825df9a09d68e7a187fb'}
+  - {seq: 5, role: markers, filename: assets/KR6v0509_005.markers.yaml, hash: 'sha256:5115935e9bd2e032aaa352035d02d0c0d6ecd7eec97050bf3ac3d7f673913d81'}
+  - {seq: 6, role: markers, filename: assets/KR6v0509_006.markers.yaml, hash: 'sha256:8de0f3d2e0c40f3bb1ff1a71bbcdcdaaa731c1147ccc84ade613442bc0448a62'}
+  - {seq: 7, role: markers, filename: assets/KR6v0509_007.markers.yaml, hash: 'sha256:5aaa4f128cd8c7d7663f391444e14e1f90005315008beb7809d2bb817f84e03b'}
+  - {seq: 8, role: markers, filename: assets/KR6v0509_008.markers.yaml, hash: 'sha256:c3cda7882453fdb1cabb4e761eeb5f94df205ce0674b03ee78e357c6f27c9f2b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 版本說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-2
+    span:
+    - front
+    - 543
+    - 543
+  label: 卷首
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-3
+    span:
+    - front
+    - 543
+    - 543
+  label: 題辭
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-4
+    span:
+    - front
+    - 543
+    - 543
+  label: 七塔寺志題辭
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-5
+    span:
+    - front
+    - 826
+    - 826
+  label: 次水月上人〈感懷〉原韵，題七塔寺志
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-6
+    span:
+    - front
+    - 906
+    - 906
+  label: 七塔寺志讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-7
+    span:
+    - front
+    - 986
+    - 986
+  label: 題七塔報恩寺志並贈溥常上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-8
+    span:
+    - front
+    - 1059
+    - 1059
+  label: 七塔寺志原題
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-9
+    span:
+    - front
+    - 1101
+    - 1101
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-10
+    span:
+    - front
+    - 1101
+    - 1101
+  label: 七塔報恩寺志序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-11
+    span:
+    - front
+    - 1531
+    - 1531
+  label: 七塔寺志序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-12
+    span:
+    - front
+    - 1895
+    - 1895
+  label: 七塔報恩寺志序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-13
+    span:
+    - front
+    - 2402
+    - 2402
+  label: 七塔寺志序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-14
+    span:
+    - front
+    - 2649
+    - 2649
+  label: 鄞縣七塔寺志序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-15
+    span:
+    - front
+    - 3108
+    - 3108
+  label: 七塔報恩禪寺志序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-16
+    span:
+    - front
+    - 3744
+    - 3744
+  label: 七塔寺志序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-17
+    span:
+    - front
+    - 4067
+    - 4067
+  label: 七塔報恩禪寺志序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-18
+    span:
+    - front
+    - 4482
+    - 4482
+  label: 圖像
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-19
+    span:
+    - front
+    - 4482
+    - 4482
+  label: 大雄寶殿觀音菩薩像
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-20
+    span:
+    - front
+    - 4491
+    - 4491
+  label: 大雄寶殿觀音菩薩像贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-21
+    span:
+    - front
+    - 4750
+    - 4750
+  label: 五百羅漢石刻之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-22
+    span:
+    - front
+    - 4758
+    - 4758
+  label: 七塔寺志序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-23
+    span:
+    - front
+    - 5117
+    - 5117
+  label: 開山祖塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-24
+    span:
+    - front
+    - 5127
+    - 5127
+  label: 開山祖塔碑文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-25
+    span:
+    - front
+    - 5415
+    - 5415
+  label: 慈運慧祖遺像
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0509_GA_000-mulu-26
+    span:
+    - front
+    - 5434
+    - 5434
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0509_GA_001-juan-start
+    span:
+    - body
+    - 0
+    - 1468
+  label: 七塔寺志卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0509_GA_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 志圖記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0509_GA_001-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 七塔報恩禪寺記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0509_GA_001-mulu-3
+    span:
+    - body
+    - 1080
+    - 1080
+  label: 七塔報恩禪寺平靣全圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0509_GA_001-mulu-4
+    span:
+    - body
+    - 1442
+    - 1442
+  label: 寺圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0509_GA_001-mulu-5
+    span:
+    - body
+    - 1442
+    - 1442
+  label: 七浮圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0509_GA_001-mulu-6
+    span:
+    - body
+    - 1445
+    - 1445
+  label: 山門及天王殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0509_GA_001-mulu-7
+    span:
+    - body
+    - 1451
+    - 1451
+  label: 大雄寶殿正面
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0509_GA_001-mulu-8
+    span:
+    - body
+    - 1457
+    - 1457
+  label: 鐘樓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0509_GA_001-mulu-9
+    span:
+    - body
+    - 1459
+    - 1459
+  label: 三聖殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0509_GA_001-mulu-10
+    span:
+    - body
+    - 1462
+    - 1462
+  label: 藏經樓及法堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-juan-start
+    span:
+    - body
+    - 0
+    - 7280
+  label: 七塔寺志卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 志金石
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 一、開山祖塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-3
+    span:
+    - body
+    - 101
+    - 101
+  label: 二、補陀寺鐘題字
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-4
+    span:
+    - body
+    - 138
+    - 138
+  label: 三、補陀寺鐵磬
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-5
+    span:
+    - body
+    - 170
+    - 170
+  label: 四、崇壽寺額
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-6
+    span:
+    - body
+    - 202
+    - 202
+  label: 五、七塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-7
+    span:
+    - body
+    - 227
+    - 227
+  label: 六、五百羅漢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-8
+    span:
+    - body
+    - 232
+    - 232
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-9
+    span:
+    - body
+    - 251
+    - 251
+  label: 五百羅漢像贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-10
+    span:
+    - body
+    - 495
+    - 495
+  label: 二刻五百阿羅漢敍
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-11
+    span:
+    - body
+    - 658
+    - 658
+  label: 五百羅漢名號錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-12
+    span:
+    - body
+    - 5780
+    - 5780
+  label: 七、補陀寺鐵香爐
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-13
+    span:
+    - body
+    - 5811
+    - 5811
+  label: 八、琉璃會碑
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-14
+    span:
+    - body
+    - 5816
+    - 5816
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-15
+    span:
+    - body
+    - 5839
+    - 5839
+  label: 琉璃會碑記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-16
+    span:
+    - body
+    - 5975
+    - 5975
+  label: 九、銅磬
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-17
+    span:
+    - body
+    - 6014
+    - 6014
+  label: 十、寶鼎
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-18
+    span:
+    - body
+    - 6060
+    - 6060
+  label: 十一、銅鐘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-19
+    span:
+    - body
+    - 6064
+    - 6064
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-20
+    span:
+    - body
+    - 6120
+    - 6120
+  label: 七塔寺大鐘記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-21
+    span:
+    - body
+    - 6604
+    - 6604
+  label: 十二、大銅鍋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-22
+    span:
+    - body
+    - 6639
+    - 6639
+  label: 十三、石香爐
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-23
+    span:
+    - body
+    - 6656
+    - 6656
+  label: 十四、普洽皓祖塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-24
+    span:
+    - body
+    - 6684
+    - 6684
+  label: 十五、慈運慧祖塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-25
+    span:
+    - body
+    - 6705
+    - 6705
+  label: 十六、普同塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-26
+    span:
+    - body
+    - 6710
+    - 6710
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-27
+    span:
+    - body
+    - 6723
+    - 6723
+  label: 七塔寺普同塔記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0509_GA_002-mulu-28
+    span:
+    - body
+    - 7096
+    - 7096
+  label: 附錄：慈運老人沉香木像
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-juan-start
+    span:
+    - body
+    - 0
+    - 701
+  label: 七塔寺志卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 志沿革
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-3
+    span:
+    - body
+    - 10
+    - 10
+  label: 東津禪院
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-4
+    span:
+    - body
+    - 119
+    - 119
+  label: 棲心寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-5
+    span:
+    - body
+    - 197
+    - 197
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-6
+    span:
+    - body
+    - 198
+    - 198
+  label: 崇壽寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-7
+    span:
+    - body
+    - 289
+    - 289
+  label: 神霄玉清萬壽宮
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-8
+    span:
+    - body
+    - 341
+    - 341
+  label: 明
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-9
+    span:
+    - body
+    - 342
+    - 342
+  label: 補陀寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-10
+    span:
+    - body
+    - 514
+    - 514
+  label: 復建棲心寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-11
+    span:
+    - body
+    - 594
+    - 594
+  label: 清
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-12
+    span:
+    - body
+    - 595
+    - 595
+  label: 七塔寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0509_GA_003-mulu-13
+    span:
+    - body
+    - 657
+    - 657
+  label: 報恩寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-juan-start
+    span:
+    - body
+    - 0
+    - 6181
+  label: 七塔寺志卷之四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 志建置
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 甲、過去之一斑
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-3
+    span:
+    - body
+    - 15
+    - 15
+  label: 養濟院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-4
+    span:
+    - body
+    - 52
+    - 52
+  label: 圓通寶殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-5
+    span:
+    - body
+    - 67
+    - 67
+  label: 毗盧閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-6
+    span:
+    - body
+    - 78
+    - 78
+  label: 藏經寶閣等
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-7
+    span:
+    - body
+    - 115
+    - 115
+  label: 十王殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-8
+    span:
+    - body
+    - 135
+    - 135
+  label: 方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-9
+    span:
+    - body
+    - 144
+    - 144
+  label: 佛殿等
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-10
+    span:
+    - body
+    - 201
+    - 201
+  label: 大悲殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-11
+    span:
+    - body
+    - 235
+    - 235
+  label: 乙、中興後之概况
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-12
+    span:
+    - body
+    - 242
+    - 242
+  label: 天王殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-13
+    span:
+    - body
+    - 245
+    - 245
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-14
+    span:
+    - body
+    - 346
+    - 346
+  label: 匾額
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-15
+    span:
+    - body
+    - 406
+    - 406
+  label: 聯語
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-16
+    span:
+    - body
+    - 696
+    - 696
+  label: 大雄寶殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-17
+    span:
+    - body
+    - 700
+    - 700
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-18
+    span:
+    - body
+    - 783
+    - 783
+  label: 匾額、聯語
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-19
+    span:
+    - body
+    - 1908
+    - 1908
+  label: 七塔寺重修大雄寶殿，暨裝金千手觀音、文殊、普賢，及滿堂聖像募緣啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-20
+    span:
+    - body
+    - 2411
+    - 2411
+  label: 三聖殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-21
+    span:
+    - body
+    - 2414
+    - 2414
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-22
+    span:
+    - body
+    - 2492
+    - 2492
+  label: 附記
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-23
+    span:
+    - body
+    - 2675
+    - 2675
+  label: 匾額
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-24
+    span:
+    - body
+    - 2793
+    - 2793
+  label: 聯語
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-25
+    span:
+    - body
+    - 3208
+    - 3208
+  label: 西方三聖裝金萬緣啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-26
+    span:
+    - body
+    - 3937
+    - 3937
+  label: 中興祖堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-27
+    span:
+    - body
+    - 3941
+    - 3941
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-28
+    span:
+    - body
+    - 3956
+    - 3956
+  label: 匾額、聯語
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-29
+    span:
+    - body
+    - 4002
+    - 4002
+  label: 法堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-30
+    span:
+    - body
+    - 4004
+    - 4004
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-31
+    span:
+    - body
+    - 4025
+    - 4025
+  label: 匾額
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-32
+    span:
+    - body
+    - 4364
+    - 4364
+  label: 聯語
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-33
+    span:
+    - body
+    - 4487
+    - 4487
+  label: 藏經樓
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-34
+    span:
+    - body
+    - 4490
+    - 4490
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-35
+    span:
+    - body
+    - 4512
+    - 4512
+  label: 匾額
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-36
+    span:
+    - body
+    - 4545
+    - 4545
+  label: 龍藏目錄提要
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-37
+    span:
+    - body
+    - 4983
+    - 4983
+  label: 方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-38
+    span:
+    - body
+    - 4985
+    - 4985
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-39
+    span:
+    - body
+    - 4991
+    - 4991
+  label: 匾額
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-40
+    span:
+    - body
+    - 5006
+    - 5006
+  label: 開山祖塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-41
+    span:
+    - body
+    - 5010
+    - 5010
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-42
+    span:
+    - body
+    - 5021
+    - 5021
+  label: 匾額
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-43
+    span:
+    - body
+    - 5084
+    - 5084
+  label: 慈蔭堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-44
+    span:
+    - body
+    - 5087
+    - 5087
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-45
+    span:
+    - body
+    - 5104
+    - 5104
+  label: 匾額
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-46
+    span:
+    - body
+    - 5375
+    - 5375
+  label: 玉佛閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-47
+    span:
+    - body
+    - 5378
+    - 5378
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-48
+    span:
+    - body
+    - 5400
+    - 5400
+  label: 匾額
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-49
+    span:
+    - body
+    - 5473
+    - 5473
+  label: 新庫房
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-50
+    span:
+    - body
+    - 5485
+    - 5485
+  label: 新新庫房　小廚房
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-51
+    span:
+    - body
+    - 5498
+    - 5498
+  label: 老庫房
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-52
+    span:
+    - body
+    - 5510
+    - 5510
+  label: 地藏殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-53
+    span:
+    - body
+    - 5519
+    - 5519
+  label: 念佛堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-54
+    span:
+    - body
+    - 5527
+    - 5527
+  label: 大鐘樓
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-55
+    span:
+    - body
+    - 5590
+    - 5590
+  label: 雲水堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-56
+    span:
+    - body
+    - 5610
+    - 5610
+  label: 華嚴閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-57
+    span:
+    - body
+    - 5613
+    - 5613
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-58
+    span:
+    - body
+    - 5619
+    - 5619
+  label: 匾額
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-59
+    span:
+    - body
+    - 5662
+    - 5662
+  label: 監齋殿　五觀堂　大廚房
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-60
+    span:
+    - body
+    - 5684
+    - 5684
+  label: 如意寮
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-61
+    span:
+    - body
+    - 5692
+    - 5692
+  label: 祖堂　客堂　禪堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-62
+    span:
+    - body
+    - 5703
+    - 5703
+  label: 報恩佛學院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-63
+    span:
+    - body
+    - 5708
+    - 5708
+  label: 概述
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-64
+    span:
+    - body
+    - 5741
+    - 5741
+  label: 七塔寺募建延壽堂佛學院啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0509_GA_004-mulu-65
+    span:
+    - body
+    - 6164
+    - 6164
+  label: 施醫藥所
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-juan-start
+    span:
+    - body
+    - 0
+    - 22842
+  label: 七塔寺志卷之五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 志僧譜
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 法嗣線圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-3
+    span:
+    - body
+    - 1530
+    - 1530
+  label: 慈運大師傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-4
+    span:
+    - body
+    - 2284
+    - 2284
+  label: 皈依大師傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-5
+    span:
+    - body
+    - 2941
+    - 2941
+  label: 勅賜報恩七塔寺方丈，皈依大和尚七秩開壽序
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-6
+    span:
+    - body
+    - 3798
+    - 3798
+  label: 祭慈運先師文
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-7
+    span:
+    - body
+    - 4867
+    - 4867
+  label: 慈運老和尚塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-8
+    span:
+    - body
+    - 5507
+    - 5507
+  label: 前清勅賜七塔報恩寺方丈慈運大師塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-9
+    span:
+    - body
+    - 6369
+    - 6369
+  label: 慈運慧祖百歲紀念撮影讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-10
+    span:
+    - body
+    - 6449
+    - 6449
+  label: 大和尚岐昌法師六十大壽之序
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-11
+    span:
+    - body
+    - 7204
+    - 7204
+  label: 岐昌老和尚八十冥壽啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-12
+    span:
+    - body
+    - 8115
+    - 8115
+  label: 僧晉首座禪行略
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-13
+    span:
+    - body
+    - 8799
+    - 8799
+  label: 蓮生法師傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-14
+    span:
+    - body
+    - 9431
+    - 9431
+  label: 澹禪和尚塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-15
+    span:
+    - body
+    - 10471
+    - 10471
+  label: 道階法師行述
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-16
+    span:
+    - body
+    - 13227
+    - 13227
+  label: 智圓禪師藏真壽塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-17
+    span:
+    - body
+    - 14119
+    - 14119
+  label: 僧晙老和尚傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-18
+    span:
+    - body
+    - 14707
+    - 14707
+  label: 道亨和尚傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-19
+    span:
+    - body
+    - 15121
+    - 15121
+  label: 常西上人傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-20
+    span:
+    - body
+    - 15532
+    - 15532
+  label: 圓瑛法師事略
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-21
+    span:
+    - body
+    - 15927
+    - 15927
+  label: 送圓瑛法師主持報恩禪寺法席序
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-22
+    span:
+    - body
+    - 16692
+    - 16692
+  label: 溥常老和尚七秩大壽序
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-23
+    span:
+    - body
+    - 17682
+    - 17682
+  label: 溥常老法師七秩大慶傳戒記
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-24
+    span:
+    - body
+    - 18838
+    - 18838
+  label: 溥常長老事略
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-25
+    span:
+    - body
+    - 19793
+    - 19793
+  label: 指南和尚述略
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-26
+    span:
+    - body
+    - 20414
+    - 20414
+  label: 報恩堂宗譜序
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-27
+    span:
+    - body
+    - 20663
+    - 20663
+  label: 報恩堂宗譜序
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-28
+    span:
+    - body
+    - 21063
+    - 21063
+  label: 報恩堂宗譜緒言
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-29
+    span:
+    - body
+    - 21685
+    - 21685
+  label: 報恩堂法規
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0509_GA_005-mulu-30
+    span:
+    - body
+    - 22319
+    - 22319
+  label: 歷任住持年表
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-juan-start
+    span:
+    - body
+    - 0
+    - 3433
+  label: 七塔寺志卷之六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 志法要
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-3
+    span:
+    - body
+    - 10
+    - 10
+  label: 天目禮禪師重裝心鏡禪師像，開光法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-4
+    span:
+    - body
+    - 74
+    - 74
+  label: 清
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-5
+    span:
+    - body
+    - 75
+    - 75
+  label: 八指頭陀為慈老人起棺法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-6
+    span:
+    - body
+    - 354
+    - 354
+  label: 又入壙法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-7
+    span:
+    - body
+    - 399
+    - 399
+  label: 又對靈小參法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-8
+    span:
+    - body
+    - 648
+    - 648
+  label: 又祖堂入牌位法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-9
+    span:
+    - body
+    - 818
+    - 818
+  label: 民國
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-10
+    span:
+    - body
+    - 820
+    - 820
+  label: 諦閑老法師上堂法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-11
+    span:
+    - body
+    - 1089
+    - 1089
+  label: 圓瑛和尚冬至陞座法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-12
+    span:
+    - body
+    - 1283
+    - 1283
+  label: 又除夕陞座法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-13
+    span:
+    - body
+    - 1446
+    - 1446
+  label: 又天童上堂法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-14
+    span:
+    - body
+    - 1624
+    - 1624
+  label: 又七塔禪堂起七法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-15
+    span:
+    - body
+    - 1689
+    - 1689
+  label: 溥常和尚陞座法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-16
+    span:
+    - body
+    - 1939
+    - 1939
+  label: 又禪堂起香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-17
+    span:
+    - body
+    - 2121
+    - 2121
+  label: 又貼單法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-18
+    span:
+    - body
+    - 2244
+    - 2244
+  label: 又結制法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-19
+    span:
+    - body
+    - 2403
+    - 2403
+  label: 又解七法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-20
+    span:
+    - body
+    - 2500
+    - 2500
+  label: 又臘八陞座法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-21
+    span:
+    - body
+    - 2662
+    - 2662
+  label: 又元旦陞座法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-22
+    span:
+    - body
+    - 2819
+    - 2819
+  label: 又解制法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-23
+    span:
+    - body
+    - 2962
+    - 2962
+  label: 又退居辭眾，陞座法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0509_GA_006-mulu-24
+    span:
+    - body
+    - 3086
+    - 3086
+  label: 萬年規約目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0509_GA_007-juan-start
+    span:
+    - body
+    - 0
+    - 1496
+  label: 七塔寺志卷之七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0509_GA_007-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 志產業
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0509_GA_007-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 產業表
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0509_GA_007-mulu-3
+    span:
+    - body
+    - 12
+    - 12
+  label: 慈運老人接管以前之所有產業
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0509_GA_007-mulu-4
+    span:
+    - body
+    - 92
+    - 92
+  label: 慈運老人接管以後之添置產業
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0509_GA_007-mulu-5
+    span:
+    - body
+    - 1367
+    - 1367
+  label: 管有外埠之產業
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-juan-start
+    span:
+    - body
+    - 0
+    - 10971
+  label: 七塔寺志卷之八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 志藝文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 重陽後一日，偕水月上人登慈谿驃騎山
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-3
+    span:
+    - body
+    - 69
+    - 69
+  label: 懷明州皈依長老
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-4
+    span:
+    - body
+    - 104
+    - 104
+  label: 寄水月法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-5
+    span:
+    - body
+    - 148
+    - 148
+  label: 丁丑春，太白慈運長老退歸鎮海萬善寺，因贈
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-6
+    span:
+    - body
+    - 194
+    - 194
+  label: 戊寅春日懷慈運長老
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-7
+    span:
+    - body
+    - 241
+    - 241
+  label: 代皈依和尚輓陳建科先生
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-8
+    span:
+    - body
+    - 347
+    - 347
+  label: 寄水月法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-9
+    span:
+    - body
+    - 389
+    - 389
+  label: 感懷
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-10
+    span:
+    - body
+    - 619
+    - 619
+  label: 生日書感
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-11
+    span:
+    - body
+    - 739
+    - 739
+  label: 和岐昌大和尚感懷
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-12
+    span:
+    - body
+    - 806
+    - 806
+  label: 題自繪達摩祖師像
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-13
+    span:
+    - body
+    - 846
+    - 846
+  label: 題自繪觀音像
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-14
+    span:
+    - body
+    - 884
+    - 884
+  label: 恭步水月法兄原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-15
+    span:
+    - body
+    - 950
+    - 950
+  label: 謝水月法師惠狼毫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-16
+    span:
+    - body
+    - 1045
+    - 1045
+  label: 謝水月法師惠茶，次原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-17
+    span:
+    - body
+    - 1114
+    - 1114
+  label: 恭祝岐昌老人八十冥壽
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-18
+    span:
+    - body
+    - 1247
+    - 1247
+  label: 祝岐昌老和尚八秩冥壽
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-19
+    span:
+    - body
+    - 1376
+    - 1376
+  label: 追懷岐昌法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-20
+    span:
+    - body
+    - 1495
+    - 1495
+  label: 送溥常和尚住持七塔寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-21
+    span:
+    - body
+    - 1548
+    - 1548
+  label: 贈溥常法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-22
+    span:
+    - body
+    - 1728
+    - 1728
+  label: 與寥士、采泉同游七塔寺，訪溥常老人，率贈
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-23
+    span:
+    - body
+    - 1992
+    - 1992
+  label: 和作
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-24
+    span:
+    - body
+    - 2137
+    - 2137
+  label: 和作
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-25
+    span:
+    - body
+    - 2315
+    - 2315
+  label: 和作
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-26
+    span:
+    - body
+    - 2544
+    - 2544
+  label: 和作
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-27
+    span:
+    - body
+    - 2807
+    - 2807
+  label: 和作
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-28
+    span:
+    - body
+    - 2951
+    - 2951
+  label: 集七塔寺，分韻得明字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-29
+    span:
+    - body
+    - 3068
+    - 3068
+  label: 集七塔寺，分韻得侵字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-30
+    span:
+    - body
+    - 3138
+    - 3138
+  label: 集七塔寺，分韻得機字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-31
+    span:
+    - body
+    - 3210
+    - 3210
+  label: 集七塔寺，分韻得尤字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-32
+    span:
+    - body
+    - 3288
+    - 3288
+  label: 集七塔寺，分韻得青字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-33
+    span:
+    - body
+    - 3358
+    - 3358
+  label: 集七塔寺，分韻得中字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-34
+    span:
+    - body
+    - 3429
+    - 3429
+  label: 集七塔寺，分韻得灰字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-35
+    span:
+    - body
+    - 3556
+    - 3556
+  label: 集七塔寺，分韻得筵字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-36
+    span:
+    - body
+    - 3685
+    - 3685
+  label: 集七塔寺，分韻得蕭字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-37
+    span:
+    - body
+    - 3757
+    - 3757
+  label: 集七塔寺，分韻得元字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-38
+    span:
+    - body
+    - 3882
+    - 3882
+  label: 集七塔寺，分韻得魚字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-39
+    span:
+    - body
+    - 3949
+    - 3949
+  label: 集七塔寺，分韻得燈字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-40
+    span:
+    - body
+    - 4093
+    - 4093
+  label: 集七塔寺，分韻得虞字
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-41
+    span:
+    - body
+    - 4275
+    - 4275
+  label: 在報恩佛學院觀《南嶽志》，題一絕句
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-42
+    span:
+    - body
+    - 4335
+    - 4335
+  label: 在報恩佛學院觀《九華山志》，題三絕句
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-43
+    span:
+    - body
+    - 4451
+    - 4451
+  label: 禪堂發起坐香
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-44
+    span:
+    - body
+    - 4558
+    - 4558
+  label: 七塔寺坐香法會，溥常長老有詩索和，因次原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-45
+    span:
+    - body
+    - 4636
+    - 4636
+  label: 和溥師方丈禪堂坐香原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-46
+    span:
+    - body
+    - 4732
+    - 4732
+  label: 和溥師方丈禪堂坐香原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-47
+    span:
+    - body
+    - 4806
+    - 4806
+  label: 憶七塔寺自真和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-48
+    span:
+    - body
+    - 4882
+    - 4882
+  label: 詠七塔寺軼聞
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-49
+    span:
+    - body
+    - 5085
+    - 5085
+  label: 題塔乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-50
+    span:
+    - body
+    - 5181
+    - 5181
+  label: 四明七塔寺志敍略
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-51
+    span:
+    - body
+    - 5625
+    - 5625
+  label: 弔崇壽橋
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-52
+    span:
+    - body
+    - 5730
+    - 5730
+  label: 過崇壽橋遺址，和溥常上座
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-53
+    span:
+    - body
+    - 5772
+    - 5772
+  label: 和溥師〈弔崇壽橋〉原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-54
+    span:
+    - body
+    - 5832
+    - 5832
+  label: 溥常老法師、寥士老友招集七塔寺方丈室，即席賦示同座諸子
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-55
+    span:
+    - body
+    - 5925
+    - 5925
+  label: 集七塔寺，次韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-56
+    span:
+    - body
+    - 6011
+    - 6011
+  label: 題禪堂起七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-57
+    span:
+    - body
+    - 6087
+    - 6087
+  label: 圓明講堂落成，圓瑛法師命題
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-58
+    span:
+    - body
+    - 6177
+    - 6177
+  label: 集悲華老人句
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-59
+    span:
+    - body
+    - 6261
+    - 6261
+  label: 贈溥常長老
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-60
+    span:
+    - body
+    - 6324
+    - 6324
+  label: 題七塔寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-61
+    span:
+    - body
+    - 6424
+    - 6424
+  label: 七塔住持告退感言
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-62
+    span:
+    - body
+    - 6747
+    - 6747
+  label: 五十壽辰口占
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-63
+    span:
+    - body
+    - 6811
+    - 6811
+  label: 次寄禪長老〈登太白山〉韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-64
+    span:
+    - body
+    - 6863
+    - 6863
+  label: 參禪
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-65
+    span:
+    - body
+    - 6979
+    - 6979
+  label: 春日
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-66
+    span:
+    - body
+    - 7011
+    - 7011
+  label: 夏日
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-67
+    span:
+    - body
+    - 7041
+    - 7041
+  label: 秋日
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-68
+    span:
+    - body
+    - 7071
+    - 7071
+  label: 冬日
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-69
+    span:
+    - body
+    - 7101
+    - 7101
+  label: 《七塔禪寺宗譜》告成，為溥常法師誌喜
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-70
+    span:
+    - body
+    - 7429
+    - 7429
+  label: 送指南和尚住持七塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-71
+    span:
+    - body
+    - 7575
+    - 7575
+  label: 贈指南和尚住持七塔寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-72
+    span:
+    - body
+    - 7632
+    - 7632
+  label: 前題
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-73
+    span:
+    - body
+    - 7677
+    - 7677
+  label: 前題
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-74
+    span:
+    - body
+    - 7721
+    - 7721
+  label: 前題
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-75
+    span:
+    - body
+    - 7766
+    - 7766
+  label: 前題
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-76
+    span:
+    - body
+    - 7811
+    - 7811
+  label: 前題
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-77
+    span:
+    - body
+    - 7843
+    - 7843
+  label: 指南和尚住持七塔，進院，為賦長歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-78
+    span:
+    - body
+    - 7977
+    - 7977
+  label: 《七塔寺志》題後
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-79
+    span:
+    - body
+    - 8102
+    - 8102
+  label: 跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-80
+    span:
+    - body
+    - 8102
+    - 8102
+  label: 七塔寺志跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-81
+    span:
+    - body
+    - 8348
+    - 8348
+  label: 七塔寺志跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-82
+    span:
+    - body
+    - 8513
+    - 8513
+  label: 補正
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-83
+    span:
+    - body
+    - 8527
+    - 8527
+  label: 卷之二志金石
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-84
+    span:
+    - body
+    - 8908
+    - 8908
+  label: 佛頂尊勝陀羅尼咒
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-85
+    span:
+    - body
+    - 9281
+    - 9281
+  label: 卷之四志建置
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-86
+    span:
+    - body
+    - 9287
+    - 9287
+  label: 甲、過去之一斑
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-87
+    span:
+    - body
+    - 9293
+    - 9293
+  label: 圓通寶殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-88
+    span:
+    - body
+    - 9334
+    - 9334
+  label: 藏經寶閣等
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-89
+    span:
+    - body
+    - 9363
+    - 9363
+  label: 乙、中興後之概況
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-90
+    span:
+    - body
+    - 9370
+    - 9370
+  label: 開山祖塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-91
+    span:
+    - body
+    - 9457
+    - 9457
+  label: 卷之五志僧譜
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-92
+    span:
+    - body
+    - 9463
+    - 9463
+  label: 唐明州棲心寺藏奐傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-93
+    span:
+    - body
+    - 10274
+    - 10274
+  label: 明智中立法師傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-94
+    span:
+    - body
+    - 10790
+    - 10790
+  label: 卷之八志藝文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0509_GA_008-mulu-95
+    span:
+    - body
+    - 10831
+    - 10831
+  label: 勘誤表
+  type: mulu
+  level: 1
+hash: sha256:1c26864a7cf74a80e7a8324632e1e292f63687a7c285e8c0f7ef2c5f33a99497
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

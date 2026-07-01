@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR6v0509/ga/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四明陳寥士纂志沿革唐東津禪院此為最初之寺名鄞縣志卷六十八頁十三云縣東五里舊號東津禪院唐大中十二年分寗令任景求捨宅建寺案敬止錄云景求初貫蘇州曾任明州判遂家於鄞治第甬東後徙豐樂鄉東山下遂捨甬東居宅為寺請心鏡大師居之天童寺志卷三心鏡奐禪師傳略同棲心寺乃東津禪院所改也鄞縣志同前云會剡寇裘甫掠四明縱兵入寺師燕坐禪定神色不動賊眾愕眙作禮而退咸通二年郡奏其事請以棲心名寺旌師之德天童寺志卷三心鏡奐禪師傳略同宋崇壽寺此為第三寺名鄞縣志同前云宋大中祥符元年賜額崇壽山門前跨河石橋亦名崇壽橋按鄞縣志金石門謂崇壽寺額為唐時裴休書豈唐時早有此名耶崇壽橋則于民國廿三年冬鄞縣政府填河造屋橋亦隨圮因附記之神霄玉清萬壽宮此為第四寺名是否由佛教暫改為道教不可考鄞縣志同前云政和八年改建神霄玉清萬壽宮久之復舊寶慶志明補陀寺此為第五寺名鄞縣志卷六十六頁三十一云縣東三里本昌國梅岑山寶陀寺明洪武二十年因寶陀寺懸海徙建于甬東之棲心寺內空址案明州雜謠注洪武十九年信國公湯和起遣海島居民遷入江東奏改棲心寺為補陀寺與成化志差一年普陀山志卷二頁二云明太祖洪武二十年信國公湯徙居民入內地焚其殿宇三百餘間迎瑞相供于郡東棲心寺重建大剎改名補陀山中僅留鐵瓦殿一所使一僧一介守奉香火焉復建棲心寺唐名之棲心寺在洪武永樂間曾與補陀寺同存鄞縣志卷六十八頁十三云洪武二十年徙昌國補陀于郡城僧惟摩捨建補陀寺留東首三分之一復建棲心永樂間僧併補陀寺遂廢敬止錄清七塔寺此為第六寺名鄞縣志卷六十六頁三十一云二十一年康熙建大悲殿門外有七浮圖俗呼七塔寺按七浮圖不必始建于清而七塔寺之名則始于此報恩寺為今名全名則為七塔報恩禪寺余作慈運大師傳云翌年光緒二十一年赴都請頒龍藏勅賜報恩寺額
+  hash: sha256:74b2e052a13151e2ae6599388c6c31d99cb887637a9fe306e3819e3827109a2b
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 七塔寺志卷之三, id: KR6v0509_GA_003-juan-start, juan_n: '003', jhead: 七塔寺志卷之三}
+  - {type: 其他, offset: 6, content: 志沿革, id: KR6v0509_GA_003-mulu-1, level: '1'}
+  - {type: 其他, offset: 9, content: 唐, id: KR6v0509_GA_003-mulu-2, level: '2'}
+  - {type: 其他, offset: 10, content: 東津禪院, id: KR6v0509_GA_003-mulu-3, level: '3'}
+  - {type: 其他, offset: 119, content: 棲心寺, id: KR6v0509_GA_003-mulu-4, level: '3'}
+  - {type: 其他, offset: 197, content: 宋, id: KR6v0509_GA_003-mulu-5, level: '2'}
+  - {type: 其他, offset: 198, content: 崇壽寺, id: KR6v0509_GA_003-mulu-6, level: '3'}
+  - {type: 其他, offset: 289, content: 神霄玉清萬壽宮, id: KR6v0509_GA_003-mulu-7, level: '3'}
+  - {type: 其他, offset: 341, content: 明, id: KR6v0509_GA_003-mulu-8, level: '2'}
+  - {type: 其他, offset: 342, content: 補陀寺, id: KR6v0509_GA_003-mulu-9, level: '3'}
+  - {type: 其他, offset: 514, content: 復建棲心寺, id: KR6v0509_GA_003-mulu-10, level: '3'}
+  - {type: 其他, offset: 594, content: 清, id: KR6v0509_GA_003-mulu-11, level: '2'}
+  - {type: 其他, offset: 595, content: 七塔寺, id: KR6v0509_GA_003-mulu-12, level: '3'}
+  - {type: 其他, offset: 657, content: 報恩寺, id: KR6v0509_GA_003-mulu-13, level: '3'}
+  - {type: 'cbeta:juan-end', offset: 701, content: 七塔寺志卷之三終, id: KR6v0509_GA_003-juan-end, juan_n: '003', jhead: 七塔寺志卷之三終}
+metadata:
+  title: 七塔寺志
+  edition:
+    short: ga
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA015/GA015n0013.xml
+    old_id: GA015n0013
+hash: sha256:8ee78e70aa94ae5c44ff5eb871955c28e3a52537cb98a870bdacf66462428b5d
