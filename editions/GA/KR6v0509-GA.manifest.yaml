@@ -19,7 +19,7 @@ metadata:
     short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0509_000-GA.yaml, hash: 'sha256:8378d3da9a56ee21aa1d071924f0f39e433ee08c7c87369a889f3b2e816ff0d6'}
+  - {seq: 0, filename: KR6v0509_000-GA.yaml, hash: 'sha256:6637069573f19548ac3b319deac837a3f902aee40e5153ea3f1ce2b988d96bc6'}
   - {seq: 1, filename: KR6v0509_001-GA.yaml, hash: 'sha256:6dc0e2097ed3be65c0bfec23e8b5385ee8328a3c7f484d7ec63b445a234bb180'}
   - {seq: 2, filename: KR6v0509_002-GA.yaml, hash: 'sha256:0611dcbbb1ede6947c59d199910c3c014a48de1e039f467de8c444b4dc6e1079'}
   - {seq: 3, filename: KR6v0509_003-GA.yaml, hash: 'sha256:8ee78e70aa94ae5c44ff5eb871955c28e3a52537cb98a870bdacf66462428b5d'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6v0509_007-GA.yaml, hash: 'sha256:bf4624104423e6af1871082e22bd01fab7b47799675dc9b638c18cd8a4ae1c7c'}
   - {seq: 8, filename: KR6v0509_008-GA.yaml, hash: 'sha256:51ecec38b7ea6e336d73f908301f7d30f7f7d03d1702f793124486c0f8639f05'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0509_000-GA.markers.yaml, hash: 'sha256:e32d54fbc71b9dc5e1927496b851ed32f9f4a8894434e395953730702ae52df2'}
+  - {seq: 0, role: markers, filename: assets/KR6v0509_000-GA.markers.yaml, hash: 'sha256:da28ae7139bca96837d973205a50efae4e50b93fe9f20dd4482ce42d7a1793df'}
   - {seq: 1, role: markers, filename: assets/KR6v0509_001-GA.markers.yaml, hash: 'sha256:29fc3c27b64bcb452e2789e1f2d1ad81662db0154020b772c631879e02e1da63'}
   - {seq: 2, role: markers, filename: assets/KR6v0509_002-GA.markers.yaml, hash: 'sha256:7edcb5898185cb8096810c37fd061a7283800921df5a216271c3401af28f1b7d'}
   - {seq: 3, role: markers, filename: assets/KR6v0509_003-GA.markers.yaml, hash: 'sha256:185c26a4bddf57500cd1ab2f433dd1b294d5d5ff18b5037c1202e0ab6b0b839d'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 版本說明
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-2
     span:
-    - front
+    - body
     - 543
     - 543
   label: 卷首
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-3
     span:
-    - front
+    - body
     - 543
     - 543
   label: 題辭
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-4
     span:
-    - front
+    - body
     - 543
     - 543
   label: 七塔寺志題辭
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-5
     span:
-    - front
+    - body
     - 826
     - 826
   label: 次水月上人〈感懷〉原韵，題七塔寺志
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-6
     span:
-    - front
+    - body
     - 906
     - 906
   label: 七塔寺志讚
@@ -103,7 +103,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-7
     span:
-    - front
+    - body
     - 986
     - 986
   label: 題七塔報恩寺志並贈溥常上人
@@ -113,7 +113,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-8
     span:
-    - front
+    - body
     - 1059
     - 1059
   label: 七塔寺志原題
@@ -123,7 +123,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-9
     span:
-    - front
+    - body
     - 1101
     - 1101
   label: 序
@@ -133,7 +133,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-10
     span:
-    - front
+    - body
     - 1101
     - 1101
   label: 七塔報恩寺志序
@@ -143,7 +143,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-11
     span:
-    - front
+    - body
     - 1531
     - 1531
   label: 七塔寺志序
@@ -153,7 +153,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-12
     span:
-    - front
+    - body
     - 1895
     - 1895
   label: 七塔報恩寺志序
@@ -163,7 +163,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-13
     span:
-    - front
+    - body
     - 2402
     - 2402
   label: 七塔寺志序
@@ -173,7 +173,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-14
     span:
-    - front
+    - body
     - 2649
     - 2649
   label: 鄞縣七塔寺志序
@@ -183,7 +183,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-15
     span:
-    - front
+    - body
     - 3108
     - 3108
   label: 七塔報恩禪寺志序
@@ -193,7 +193,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-16
     span:
-    - front
+    - body
     - 3744
     - 3744
   label: 七塔寺志序
@@ -203,7 +203,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-17
     span:
-    - front
+    - body
     - 4067
     - 4067
   label: 七塔報恩禪寺志序
@@ -213,7 +213,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-18
     span:
-    - front
+    - body
     - 4482
     - 4482
   label: 圖像
@@ -223,7 +223,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-19
     span:
-    - front
+    - body
     - 4482
     - 4482
   label: 大雄寶殿觀音菩薩像
@@ -233,7 +233,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-20
     span:
-    - front
+    - body
     - 4491
     - 4491
   label: 大雄寶殿觀音菩薩像贊
@@ -243,7 +243,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-21
     span:
-    - front
+    - body
     - 4750
     - 4750
   label: 五百羅漢石刻之一
@@ -253,7 +253,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-22
     span:
-    - front
+    - body
     - 4758
     - 4758
   label: 七塔寺志序
@@ -263,7 +263,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-23
     span:
-    - front
+    - body
     - 5117
     - 5117
   label: 開山祖塔
@@ -273,7 +273,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-24
     span:
-    - front
+    - body
     - 5127
     - 5127
   label: 開山祖塔碑文
@@ -283,7 +283,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-25
     span:
-    - front
+    - body
     - 5415
     - 5415
   label: 慈運慧祖遺像
@@ -293,7 +293,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0509_GA_000-mulu-26
     span:
-    - front
+    - body
     - 5434
     - 5434
   label: 凡例
@@ -3079,4 +3079,4 @@ table_of_contents:
   label: 勘誤表
   type: mulu
   level: 1
-hash: sha256:b757ad206796fdf70e401794d13768f75cbe5284aa01e179f54d9472e1117fbd
+hash: sha256:d1574f065126b8e4b0b672695ba288ba7746c22355c34c85c6008f02d9fa0f56
